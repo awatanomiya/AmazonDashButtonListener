@@ -1,8 +1,9 @@
-﻿using System;
+﻿/* 
+ * DashButton.cs: 
+ * Copyright 2017 Kazuki Awaki
+ */
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using SharpPcap;
 
 namespace AmazonDashButton

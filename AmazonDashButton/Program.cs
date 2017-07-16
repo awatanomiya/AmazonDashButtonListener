@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/* 
+ * Program.cs: 
+ * Copyright 2017 Kazuki Awaki
+ */
+using System;
 
 namespace AmazonDashButton
 {
